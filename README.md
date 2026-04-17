@@ -8,13 +8,20 @@ Simulacion de comunicacion entre un cliente y un servidor usando archivos de tex
 
 
 practica2/
+
 ├── comunicacion/
-│   ├── entrada_servidor.txt   
-│   └── salida_servidor.txt    
+
+│   ├── entrada_servidor.txt 
+
+│   └── salida_servidor.txt
+
 ├── servidor/
+
 │   └── servidor.py
+
 └── cliente/
-    └── cliente.py
+
+   └── cliente.py
 
 
 
@@ -24,11 +31,15 @@ Necesitas dos terminales abiertas al mismo tiempo.
 
 
 **Terminal 1**
+
+
 cd ~/practica2/servidor
 python3 servidor.py
 
 
 **Terminal 2**
+
+
 cd ~/practica2/cliente
 python3 cliente.py
 
