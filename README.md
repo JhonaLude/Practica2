@@ -11,17 +11,17 @@ practica2/
 
 ├── comunicacion/
 
-│   ├── entrada_servidor.txt 
+│      ├── entrada_servidor.txt 
 
-│   └── salida_servidor.txt
+│      └── salida_servidor.txt
 
 ├── servidor/
 
-│   └── servidor.py
+│      └── servidor.py
 
 └── cliente/
 
-   └── cliente.py
+   | └──cliente.py
 
 
 
